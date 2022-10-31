@@ -1,8 +1,9 @@
-# Restaurant Landing Page
+# Danny Cards
 
 - Used bootstrap tools & own styles.
 - Implemented responsive template.
+- Forked from yaninatrekhleb's project, restaurant-website
 
-👉🏻 [Demo](https://yaninatrekhleb.github.io/restaurant-website/)
+👉🏻 [Demo](https://manzodan.github.io/cardshop/)
 
 ![Demo](img/demo.gif)
