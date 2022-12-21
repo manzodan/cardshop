@@ -29,7 +29,7 @@
 
 .section-intro {
     height: 500px;
-    background-image: url(img/petr-sevcovic-qE1jxYXiwOA-unsplash.jpg);
+    background-image: url(img/card_bg2.jpg);
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -42,6 +42,7 @@
     color: #ffffff;
     font-size: 4em;
     font-weight: 700;
+	-webkit-text-stroke: 1px #0d063d;
 }
 
 .section-intro header {
