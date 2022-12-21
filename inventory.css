@@ -57,7 +57,7 @@
     flex: 1;
 }
 
-.about-section {
+.inventory-section {
     display: flex;
     align-items: center;
     background-color: #f3f3f3c0;
@@ -77,8 +77,8 @@ a.link-to-book:hover {
     text-decoration: none;
 }
 
-.about-section p,
-.about-section h3 {
+.inventory-section p,
+.inventory-section h3 {
     text-align: center;
     width: 60%;
     margin: auto;
@@ -139,8 +139,8 @@ a.link-to-book:hover {
         height: 500px;
     }
 
-    .about-section p,
-    .about-section h3 {
+    .inventory-section p,
+    .inventory-section h3 {
         font-size: 20px;
     }
 
@@ -159,7 +159,7 @@ a.link-to-book:hover {
         height: 300px;
     }
 
-    .about-section {
+    .inventory-section {
         padding: 30px;
     }
 
@@ -167,8 +167,8 @@ a.link-to-book:hover {
         font-size: 2em;
     }
 
-    .about-section p,
-    .about-section h3 {
+    .inventory-section p,
+    .inventory-section h3 {
         font-size: 15px;
     }
 
