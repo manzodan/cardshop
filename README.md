@@ -1,4 +1,4 @@
-# Danny Cards
+# Dan's Card Shop
 
 - Used bootstrap tools & own styles.
 - Implemented responsive template.
